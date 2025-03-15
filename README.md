@@ -1,7 +1,7 @@
-# ms_paint_project
+**# ms_paint_project**
  A clone of MS PAINT application made my .NET Framework - Winform
 
-# Require Functions:
+**# Require Functions:**
 - Draw shapes: 
     + Line
     + Ellipse
@@ -21,6 +21,17 @@
 - Select and drag the shape (move)
 - Zoom in/out to change the size of the shape
 
-# Advance Functions:
+**# Advance Functions:**
 - Layers system to choose, move, resize, delete,... many shapes in 1 action
 - Group/Ungroup
+
+# How do they work?
+**1) Drawing shape:**
+   - Similar to in-class exercises
+**2) Painting:**
+
+
+
+
+
+
